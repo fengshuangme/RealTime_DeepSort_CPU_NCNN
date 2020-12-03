@@ -1,0 +1,2 @@
+# RealTime_DeepSort_CPU_NCNN
+采用deepsort框架做多目标跟踪，在pc上可以实时
